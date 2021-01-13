@@ -1,8 +1,3 @@
 # my-blog
-
-
+This blog is about my experiences.
 [About](about.md)
-
-Test
-1. a
-2. b
